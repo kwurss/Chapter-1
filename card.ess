@@ -1,10 +1,10 @@
 start
 new NameBank string
-set NameBank Tinkoff
+set NameBank TINKOFF
 new Number number
-set Number 4000300020001000
+set Number 4000-3000-2000-1000
 new Name string
-set Name Kira
+set Name JIMMY CHOO
 new Period number
 set 01/30
 log string "┌───────────────────────────────┐"
