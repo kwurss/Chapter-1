@@ -1,0 +1,17 @@
+start
+new NameBank string
+set NameBank Tinkoff
+new Number number
+set Number 4000300020001000
+new Name string
+set Name Kira
+new Period number
+set 01/30
+log string "┌───────────────────────────────┐"
+log string "|  ">>NameBank>>"               |"
+log string "|                               |"
+log string "| ">>Number>>"                  |"
+log string "|      ">>Period>>"             |"
+log string "| ">>Name>>"                    |"
+log string "└───────────────────────────────┘"
+finish
