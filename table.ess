@@ -1,7 +1,7 @@
 start
 new i number
 set i 1
-loop table (i<10)
+loop table (i<11)
 log number i
 set i i*2
 end table
