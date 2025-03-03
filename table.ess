@@ -1,5 +1,4 @@
 start
-new a number
 new i number
 set i 1
 loop table (i<10)
