@@ -6,7 +6,7 @@ set Number "4000-3000-2000-1000"
 new Name string
 set Name "JIMMY CHOO"
 new Period string
-set "01/30"
+set Period "01/30"
 log string "┌───────────────────────────────┐"
 log string "|  ">>NameBank>>"               |"
 log string "|                               |"
