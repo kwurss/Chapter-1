@@ -1,12 +1,12 @@
 start
 new NameBank string
-set NameBank TINKOFF
-new Number number
-set Number 4000-3000-2000-1000
+set NameBank "TINKOFF"
+new Number string
+set Number "4000-3000-2000-1000"
 new Name string
-set Name JIMMY CHOO
-new Period number
-set 01/30
+set Name "JIMMY CHOO"
+new Period string
+set "01/30"
 log string "┌───────────────────────────────┐"
 log string "|  ">>NameBank>>"               |"
 log string "|                               |"
